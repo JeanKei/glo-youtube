@@ -359,8 +359,8 @@ body {
     flex-direction: column;
   }
   .nav-text {
-    margin-left: 0;
-    font-size: 10px;
+    /* margin-left: 0;
+    font-size: 10px; */
   }
   .mobile-sidebar .nav-menu {
     padding-top: 13px;
